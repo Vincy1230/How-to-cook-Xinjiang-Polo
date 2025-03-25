@@ -220,4 +220,8 @@
 
 
 
-<p align="right">©2025 Vincy SHI</p>
+<div align="right">
+    <div>©2025 Vincy SHI</div>
+    <div>Sharing with CC BY-NC-SA 4.0</div>
+</div>
+
